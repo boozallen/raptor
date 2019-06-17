@@ -1,0 +1,8 @@
+demo.sg2
+dialogs70demo.sg2
+dialogs70gmd.sg2
+dialogs70release.sg2
+dialogs70student.sg2
+Images70.sg2
+release.sg2
+student.sg2
